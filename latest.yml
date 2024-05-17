@@ -1,8 +1,8 @@
-version: 0.0.5
+version: 0.0.7
 files:
-  - url: 坦克世界大德盒子安装包-v0.0.5.exe
-    sha512: hWpNIOxmOSMVrFbFxY2p2tqt67gA4Z5Qwu6p/UV0klFkHAhSe7F+zZ8htyRF9KtMn+d8jCvNo2ZaTM0MwaTEzw==
-    size: 82124910
-path: 坦克世界大德盒子安装包-v0.0.5.exe
-sha512: hWpNIOxmOSMVrFbFxY2p2tqt67gA4Z5Qwu6p/UV0klFkHAhSe7F+zZ8htyRF9KtMn+d8jCvNo2ZaTM0MwaTEzw==
-releaseDate: '2024-05-16T14:00:09.474Z'
+  - url: 坦克世界大德盒子安装包-v0.0.7.exe
+    sha512: BlTnL7rHkItBDJpWxnQjcm2AcmYgMkfps2ZM8teCsM8ZZKS/Ueei897A7UKbnFlqLf3iMrf2OCpi9HyzANes5w==
+    size: 75722031
+path: 坦克世界大德盒子安装包-v0.0.7.exe
+sha512: BlTnL7rHkItBDJpWxnQjcm2AcmYgMkfps2ZM8teCsM8ZZKS/Ueei897A7UKbnFlqLf3iMrf2OCpi9HyzANes5w==
+releaseDate: '2024-05-17T10:00:00.474Z'
